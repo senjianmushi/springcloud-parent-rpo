@@ -29,19 +29,13 @@ springcloud-parent的配置文件库
 │  │  │
 │  │  ├─paascloud-common-base------------------公共POJO基础包
 │  │  │
-│  │  ├─paascloud-common-config------------------公共配置包
+│  │  ├─paascloud-common-config------------------公共配置包【计划放在base里】
 │  │  │
-│  │  ├─paascloud-common-core------------------微服务核心依赖包
+│  │  ├─paascloud-common-core------------------微服务核心依赖包【待规划】
 │  │  │
-│  │  ├─paascloud-common-util------------------公共工具包
+│  │  ├─paascloud-common-util------------------公共工具包【计划放在base里】
 │  │  │
-│  │  ├─paascloud-common-zk------------------zookeeper配置
-│  │  │
-│  │  ├─paascloud-security-app------------------公共无状态安全认证
-│  │  │
-│  │  ├─paascloud-security-core------------------安全服务核心包
-│  │  │
-│  │  └─paascloud-security-feign------------------基于auth2的feign配置
+│  │  └─paascloud-security-app------------------公共无状态安全认证【待确认】
 │  │
 │  ├─user-server
 │  │  │
